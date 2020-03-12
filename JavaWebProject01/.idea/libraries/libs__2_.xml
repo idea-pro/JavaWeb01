@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="libs (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jsoup-1.12.2_xml解析器.jar!/" />
+      <root url="file://$PROJECT_DIR$/libs" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/libs/druid-1.0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/druid-1.0.9-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/libs" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/libs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
